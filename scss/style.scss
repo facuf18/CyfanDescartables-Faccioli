@@ -1,0 +1,17 @@
+@import "general";
+@import "nosotros";
+@import "categorias";
+@import "mapa";
+@import "titulos";
+@import "footer";
+
+nav a{
+    font-size: 1.6rem;
+}
+
+form{
+    padding-bottom: 20px;
+}
+label{
+    font-size: 1.2rem;
+}

@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font-size: 62.5%;
+  background-color: gainsboro; }
+
+.tarjeta {
+  background-color: #dc3545; }
+  .tarjeta--texto {
+    font-size: 1.3rem;
+    color: gainsboro;
+    text-align: justify;
+    padding-right: 40px; }
+  .tarjeta--img {
+    border: solid gainsboro 5px; }
+
+.categorias__card--texto {
+  font-size: 1rem;
+  text-align: left;
+  padding-top: 10px; }
+
+.ubicacion {
+  background-color: #dc3545;
+  border: solid white 2px;
+  height: 450px; }
+  .ubicacion__mapa {
+    margin: 20px;
+    height: 400px; }
+
+.titulo__texto {
+  font-size: 3.5rem;
+  font-weight: 700;
+  padding-top: 30px;
+  padding-bottom: 30px; }
+
+.boton--facebook {
+  color: #3a5795; }
+
+.boton--twitter {
+  color: #55acee; }
+
+.boton--google {
+  color: #db4a39; }
+
+.boton--instagram {
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent; }
+
+nav a {
+  font-size: 1.6rem; }
+
+form {
+  padding-bottom: 20px; }
+
+label {
+  font-size: 1.2rem; }

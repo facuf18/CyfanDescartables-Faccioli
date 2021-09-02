@@ -1,0 +1,12 @@
+.tarjeta {
+    background-color: #dc3545;
+    &--texto{
+        font-size: 1.3rem;
+        color: gainsboro;
+        text-align: justify;
+        padding-right: 40px;
+    }
+    &--img{
+        border: solid gainsboro 5px;
+    }
+}
