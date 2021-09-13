@@ -54,6 +54,19 @@ body {
   background-clip: text;
   -webkit-text-fill-color: transparent; }
 
+.footer {
+  margin-top: 100px; }
+
+.footerRow {
+  margin-right: 0px;
+  margin-left: 0px;
+  padding-bottom: 0px; }
+
+.footH5 {
+  font-size: 1.2rem;
+  color: rgba(0, 0, 0, 0.5);
+  background-color: transparent; }
+
 nav a {
   font-size: 1.6rem; }
 
