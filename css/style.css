@@ -35,6 +35,10 @@ body {
   padding-top: 30px;
   padding-bottom: 30px; }
 
+.rowTitulo {
+  margin-left: 0px;
+  margin-right: 0px; }
+
 .boton--facebook {
   color: #3a5795; }
 
