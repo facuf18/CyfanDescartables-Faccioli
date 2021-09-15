@@ -11,6 +11,7 @@ $colors: (
 }
 
 .boton{
+    padding-top: 5px;
     &--instagram{
     background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
     -webkit-background-clip: text;
@@ -19,7 +20,7 @@ $colors: (
     }
 }
 .footer{
-    margin-top: 100px;
+    margin-top: 150px;
 }
 .footerRow{
     margin-right: 0px;
@@ -27,7 +28,7 @@ $colors: (
     padding-bottom: 0px;
 }
 .footH5{
-    font-size: 1.2rem;
+    font-size: 1rem;
     color: rgba(0,0,0,.5);
     background-color: transparent;
 }
