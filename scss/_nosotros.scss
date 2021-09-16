@@ -1,12 +1,8 @@
-.tarjeta {
-    background-color: #dc3545;
-    &--texto{
-        font-size: 1.3rem;
-        color: gainsboro;
-        text-align: justify;
-        padding-right: 40px;
-    }
-    &--img{
-        border: solid gainsboro 5px;
-    }
+.card-text{
+    font-size: 1.3rem;
+}
+.content_center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
